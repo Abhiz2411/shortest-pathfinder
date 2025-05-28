@@ -1,3 +1,7 @@
+## 🎥 Preview
+
+![Pathfinding Visualization](assets/overview.gif)
+
 # Shortest Pathfinder 🧭
 
 A Pygame-based visualization tool for **Dijkstra's Algorithm** and **A* (A-Star) Algorithm** to find the shortest path in a 2D grid. Ideal for understanding how pathfinding algorithms work visually and interactively.
